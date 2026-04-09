@@ -116,4 +116,4 @@ Built an interactive dashboard to present insights:
 
 ---
 
-## 📁 Repository Structure  
+📸 Dashboard Preview
