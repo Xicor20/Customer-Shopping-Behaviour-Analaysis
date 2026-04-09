@@ -127,8 +127,8 @@ Designed interactive dashboards for stakeholder communication
 Translated data into actionable business recommendations
 
 ---
-##🤝 Connect
--📧 Email: tusharpokhariyal@gmail.com
+🤝 Connect
+**📧 Email: tusharpokhariyal@gmail.com**
 ---
 
 ⭐ Support
