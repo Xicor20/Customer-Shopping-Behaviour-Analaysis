@@ -29,7 +29,7 @@ A retail company seeks to better understand changing customer purchasing pattern
 | Database           | MySQL |
 | Data Analysis      | SQL |
 | Data Visualization | Power BI |
-| Version Control    | Git & GitHub |
+
 
 ---
 
