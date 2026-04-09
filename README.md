@@ -126,8 +126,10 @@ Wrote optimized SQL queries for business insights
 Designed interactive dashboards for stakeholder communication
 Translated data into actionable business recommendations
 
-###🤝 Connect
+---
+##🤝 Connect
 -📧 Email: tusharpokhariyal@gmail.com
+---
 
 ⭐ Support
 
