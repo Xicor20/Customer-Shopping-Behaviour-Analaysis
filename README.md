@@ -128,8 +128,11 @@ Built an interactive dashboard to present insights:
 - Translated data into actionable business recommendations  
 
 ---
-🤝 Connect
-**📧 Email: tusharpokhariyal@gmail.com**
+
+## 🤝 Connect  
+
+- 📧 Email: tusharpokhariyal@gmail.com  
+
 ---
 
 ⭐ Support
