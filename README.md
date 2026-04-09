@@ -119,12 +119,13 @@ Built an interactive dashboard to present insights:
 📸 Dashboard Preview
 <img width="1375" height="741" alt="image" src="https://github.com/user-attachments/assets/50b735ad-1b44-49fa-9622-9daa016b36f4" />
 
-🧠 Key Learnings
-Built a complete end-to-end data analytics pipeline
-Applied data cleaning and feature engineering techniques
-Wrote optimized SQL queries for business insights
-Designed interactive dashboards for stakeholder communication
-Translated data into actionable business recommendations
+## 🧠 Key Learnings  
+
+- Built a complete end-to-end data analytics pipeline  
+- Applied data cleaning and feature engineering techniques  
+- Wrote optimized SQL queries for business insights  
+- Designed interactive dashboards for stakeholder communication  
+- Translated data into actionable business recommendations  
 
 ---
 🤝 Connect
