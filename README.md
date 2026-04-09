@@ -117,5 +117,5 @@ Built an interactive dashboard to present insights:
 ---
 
 📸 Dashboard Preview
-<img width="1372" height="741" alt="image" src="https://github.com/user-attachments/assets/ede19aee-fdce-47c5-91ad-ebc2b169e396" />
+<img width="1375" height="741" alt="image" src="https://github.com/user-attachments/assets/50b735ad-1b44-49fa-9622-9daa016b36f4" />
 
