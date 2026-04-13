@@ -131,7 +131,8 @@ Built an interactive dashboard to present insights:
 
 ## 🤝 Connect  
 
-- 📧 Email: tusharpokhariyal@gmail.com  
+- 📧 Email: tusharpokhariyal@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/tushar-pokhariyal/ 
 
 ---
 
